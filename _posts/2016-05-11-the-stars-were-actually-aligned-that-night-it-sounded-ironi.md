@@ -4,19 +4,19 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'The stars were actually aligned that night. It sounded ironic and much like a setup cliché for the story, but they actually were. '
-datePublished: '2016-05-11T09:19:31.036Z'
-dateModified: '2016-05-11T09:19:30.422Z'
+description: 'The stars were actually aligned that night. It sounded ironic and much like a setup cliché for the story, but they actually were.'
+datePublished: '2016-05-11T09:21:05.043Z'
+dateModified: '2016-05-11T09:20:57.140Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-11-the-stars-were-actually-aligned-that-night-it-sounded-ironi.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-05-11-the-stars-were-actually-aligned-that-night-it-sounded-ironi.md
 url: the-stars-were-actually-aligned-that-night-it-sounded-ironi/index.html
 _type: Article
 
