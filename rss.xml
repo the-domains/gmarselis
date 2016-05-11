@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[George Marselis]]></title>
         <description><![CDATA[George Marselis]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gmarselis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 09:19:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 May 2016 09:21:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gmarselis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[Sheaffer Legacy Heritage Palladium Trim, Fine Nib, Sheaffer Black Ink]]></title>
             <description><![CDATA[<p>The stars were actually aligned that night. It sounded ironic and much like a setup cliché for the story, but they actually were.</p>]]></description>
-            <link>undefinedthe-stars-were-actually-aligned-that-night-it-sounded-ironi/index.html</link>
+            <link>https://thegrid.ai/gmarselis/the-stars-were-actually-aligned-that-night-it-sounded-ironi/index.html</link>
             <guid isPermaLink="false">a4e88ef0-56ee-4f39-99d7-1b8c4d4eab70</guid>
-            <pubDate>Wed, 11 May 2016 09:19:31 GMT</pubDate>
+            <pubDate>Wed, 11 May 2016 09:21:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
