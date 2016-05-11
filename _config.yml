@@ -1,0 +1,28 @@
+name: George Marselis
+favicon: null
+layout_spectrum: 0.6827562868129462
+typography_spectrum: 0.08574396627955139
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.06446065101772547
+  lightness: 0.11343715223483741
+  saturation: 0.22983204131014645
+  rhythmicContrast: 0.8278970986139029
+purpose: []
