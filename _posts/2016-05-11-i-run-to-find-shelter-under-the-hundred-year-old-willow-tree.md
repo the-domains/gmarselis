@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I run to find shelter under the hundred-year old willow tree in our yard, trying to find some cover from this wretched weather. This was the only healthy tree for miles, after that mucus had taken over the near countryside.'
-datePublished: '2016-05-11T09:37:23.058Z'
-dateModified: '2016-05-11T09:37:14.945Z'
+datePublished: '2016-05-11T09:37:43.728Z'
+dateModified: '2016-05-11T09:37:29.294Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-i-run-to-find-shelter-under-the-hundred-year-old-willow-tree.md
