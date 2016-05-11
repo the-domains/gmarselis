@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[George Marselis]]></title>
+        <description><![CDATA[George Marselis]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 May 2016 09:19:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The stars were actually aligned that night. It sounded ironic and much like a setup cliché for the story, but they actually were.</p>]]></description>
+            <link>undefinedthe-stars-were-actually-aligned-that-night-it-sounded-ironi/index.html</link>
+            <guid isPermaLink="false">a4e88ef0-56ee-4f39-99d7-1b8c4d4eab70</guid>
+            <pubDate>Wed, 11 May 2016 09:19:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
