@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'On a typical Friday night I am:'
-datePublished: '2016-07-29T10:21:12.998Z'
-dateModified: '2016-07-29T10:21:07.839Z'
+datePublished: '2016-07-29T14:16:12.608Z'
+dateModified: '2016-07-29T10:21:46.919Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-07-29-on-a-typical-friday.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-07-29-on-a-typical-friday.md
 url: on-a-typical-friday/index.html
 _type: Article
 
